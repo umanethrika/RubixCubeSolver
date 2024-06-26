@@ -1,6 +1,6 @@
 
 #include <bits/stdc++.h>
-//#include "Model/RubiksCube3dArray.cpp"
+#include "Model/RubiksCube3dArray.cpp"
 //#include "Model/RubiksCube1dArray.cpp"
 //#include "Model/RubiksCubeBitboard.cpp"
 #include "Solver/DFSSolver.h"
